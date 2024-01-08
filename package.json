@@ -1,0 +1,16 @@
+{
+  "name": "react-like-dom-diff",
+  "version": "1.0.0",
+  "description": "``` npm init -y yarn add webpack webpack-cli webpack-dev-server html-webpack-plugin ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --host"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.11"
+  }
+}
